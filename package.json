@@ -21,7 +21,7 @@
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "minter-js-sdk": "^0.29.0",
     "minterjs-wallet": "^4.0.4",
     "mongoose": "^5.8.11",
